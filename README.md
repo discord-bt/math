@@ -1,4 +1,4 @@
-# Bot-Math Plugins
+# math-puglins
 
 Módulos de cores de perfil e painéis informativos para bots do Discord, mantidos por **pyyrho**. Cada módulo pode ser ativado separadamente e configurado pelo próprio Discord.
 
